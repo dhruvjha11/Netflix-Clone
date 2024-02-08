@@ -20,7 +20,7 @@ function Nav() {
             className="nav_logo"
             src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"
             alt="netflix-logo"/>
-            <a href="https://github.com/dhruvjha11">
+            <a href="https://github.com/dhrxvjhx">
             <img
             className="nav_avatar"
             src="https://i.pinimg.com/originals/0d/dc/ca/0ddccae723d85a703b798a5e682c23c1.png"
